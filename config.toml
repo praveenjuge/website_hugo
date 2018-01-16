@@ -2,7 +2,6 @@ baseURL = "http://www.robinreni.xyz"
 title = "Notre-Dame de Paris"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "../.."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
